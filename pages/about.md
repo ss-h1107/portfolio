@@ -4,6 +4,10 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# ABOUT
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Qingyu Huang is a multidisciplinary creator working with different time-based mediums, including animation, performance, installation, sound, and writing. They find inspirations in shapes and volumes of time and space, objects, wind, water, trains, and more. They look into honest communication of the nuances and the confusing nature of experiences and thoughts.
+
+
+
+This portfolio site is built on this github opensource template: (lenpaul.github.io/portfolio-jekyll-theme/).
